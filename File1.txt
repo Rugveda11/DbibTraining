@@ -2,7 +2,7 @@ Git Demo
 
 Changes in Git demo
 
-----Changes for local commit--day 2 of training
+----Changes for local commit--day 2 of training----
 
 Changes to get and resolve conflict
 
